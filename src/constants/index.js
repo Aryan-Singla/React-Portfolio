@@ -26,13 +26,6 @@ export const EXPERIENCES = [
   {
     year: "2023 - Present",
     role: "Campus Ambassador",
-    company: "Geeks For Geeks",
-    description: `Represented Geeks For Geeks on campus, promoting events and initiatives. Led workshops and coding sessions to engage students. Developed communication strategies to increase participation and foster community. Demonstrated leadership and organizational skills in coordinating events and team activities..`,
-    technologies: ["Communication", "Leadership", "Organizational Skills"],
-  },
-  {
-    year: "2023 - Present",
-    role: "Campus Ambassador",
     company: "Coding Blocks",
     description: `Promoted Coding Blocks programs and resources within the university. Designed marketing campaigns to attract new students. Networked with students and faculty to build partnerships. Utilized promotional skills to enhance brand awareness and engagement on campus.`,
     technologies: ["Networking Skills", "Promotional Skills"],
