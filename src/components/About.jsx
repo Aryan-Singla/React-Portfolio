@@ -1,4 +1,4 @@
-import about from "../assets/about.jpg";
+import about from "../assets/nn.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
 
@@ -15,7 +15,7 @@ const About = () => {
           whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}
           transition={{ duration: 1 }}
-          className="w-full lg:w-1/2 lg:p-8"
+          className="w-4/5 lg:w-2/5 lg:p-12"
         >
           <div className="flex items-center justify-center">
             <img className="rounded-2xl" src={about} alt="about" />
@@ -28,10 +28,8 @@ const About = () => {
           transition={{ duration: 1 }}
           className="w-full lg:w-1/2"
         >
-          <div className="flex justify-center lg:justify-start">
-            <p className="my-2 font-light max-w-xl py-6">
-              {ABOUT_TEXT}
-            </p>
+          <div className="flex justify-center lg:justify-end">
+            <p className="my-2 font-light max-w-xl py-6">{ABOUT_TEXT}</p>
           </div>
         </motion.div>
       </div>

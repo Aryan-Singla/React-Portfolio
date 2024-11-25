@@ -10,7 +10,7 @@ I thrive in collaborative environments and enjoy solving complex problems to del
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "June 2024 - September 2024",
     role: "LFX Mentee",
     company: "Anuket TSC Support (LFX Networking)",
     description: `Help the Anuket TSC in various tasks. In the area of release management: collect and summarize project specific input from the community, help to plan the next release. In the area of general TSC tasks: collect health metrics of the Anuket sub-projects and present them to the TSC.`,
@@ -24,14 +24,14 @@ export const EXPERIENCES = [
   },
 
   {
-    year: "2023 - Present",
+    year: "January 2024 - Present",
     role: "Campus Ambassador",
     company: "Coding Blocks",
     description: `Promoted Coding Blocks programs and resources within the university. Designed marketing campaigns to attract new students. Networked with students and faculty to build partnerships. Utilized promotional skills to enhance brand awareness and engagement on campus.`,
     technologies: ["Networking Skills", "Promotional Skills"],
   },
   {
-    year: "2023 - Present",
+    year: "October 2023 - Present",
     role: "Student Learn Ambassador",
     company: "Microsoft",
     description: `Advocated for Microsoft Learn resources, organizing and leading educational events and workshops. Worked on community projects and collaborated with cross-functional teams to deliver high-quality service. Managed projects using GitHub and contributed to community outreach.`,
@@ -43,7 +43,7 @@ export const EXPERIENCES = [
     ],
   },
   {
-    year: "2023 - Present",
+    year: "June 2023 - Present",
     role: "Postman Student Expert",
     company: "Postman",
     description: `Learned about the API, how to use Postman, API Testing, and Practical Applications. Gain an understanding of their importance in software development, and how they facilitate
